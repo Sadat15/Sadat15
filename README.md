@@ -9,7 +9,7 @@ Full Stack Developer from London
 <div>
   
 ### Languages and Tools:
-  
+<ul>  
 * [![JavaScript][JavaScript-shield]][JavaScript-url]
 * [![NodeJS][NodeJS-shield]][NodeJS-url]
 * [![Express][Express-shield]][Express-url]
@@ -18,6 +18,7 @@ Full Stack Developer from London
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![React][React.js]][React-url]
 * [![MongoDB][MongoDB-shield]][MongoDB-url]
+</ul>
 
 <!-- <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
