@@ -1,6 +1,5 @@
-# Hi, I'm Sadat
-
 <div align="center">
+# Hi, I'm Sadat
   
 Full Stack Developer
   
