@@ -16,9 +16,13 @@ Full Stack Developer from London
 ![CSS][CSS-shield]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![React][React.js]][React-url]
+[![Redux][Redux-shield]][Redux-url]
 [![MongoDB][MongoDB-shield]][MongoDB-url]
 [![PostgreSQL][PostgreSQL-shield]][PostgreSQL-url]
+[![Jest][Jest-shield]][Jest-url]
 [![Ruby][Ruby-shield]][Ruby-url]
+  
+
   
 
 <!-- <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -52,6 +56,8 @@ Here are some ideas to get you started:
   
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Redux-shield]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+[Redux-url]: https://redux.js.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JavaScript-shield]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
@@ -69,3 +75,5 @@ Here are some ideas to get you started:
 [PostgreSQL-url]: https://www.postgresql.org/
 [Ruby-shield]: 	https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white
 [Ruby-url]: https://www.ruby-lang.org/en/
+[Jest-shield]: https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white
+[Jest-url]: https://jestjs.io/
