@@ -5,6 +5,7 @@
 Full Stack Developer from London 
   <br>
   <br>
+  <div>
   ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -19,6 +20,7 @@ Full Stack Developer from London
 style="padding-right:10px;" />
 <img align="left" alt="github" width="26px" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/terminal-dark.svg" style="padding-right:10px;"/>
+  </div>
   <br>
   <br>
 [![CV](https://img.shields.io/static/v1?label=My&message=CV&color=9ef0e3)](https://github.com/) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/static/v1?label=Linked&message=IN&color=286fc7)](https://www.linkedin.com/in/sadat-m/)  
