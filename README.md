@@ -18,6 +18,7 @@ Full Stack Developer from London
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![React][React.js]][React-url]
 [![Redux][Redux-shield]][Redux-url]
+[![Cypress][Cypress-shield]][Cypress-url]
 <br>
 [![MongoDB][MongoDB-shield]][MongoDB-url]
 [![PostgreSQL][PostgreSQL-shield]][PostgreSQL-url]
@@ -80,3 +81,5 @@ Here are some ideas to get you started:
 [Ruby-url]: https://www.ruby-lang.org/en/
 [Jest-shield]: https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white
 [Jest-url]: https://jestjs.io/
+[Cypress-shield]: https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e
+[Cypress-url]: https://www.cypress.io/
