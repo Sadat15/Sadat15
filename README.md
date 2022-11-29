@@ -13,10 +13,12 @@ Full Stack Developer from London
 [![NodeJS][NodeJS-shield]][NodeJS-url]
 [![Express][Express-shield]][Express-url]
 [![HTML][HTML-shield]][HTML-url]
+<br>
 [![CSS][CSS-shield]][CSS-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![React][React.js]][React-url]
 [![Redux][Redux-shield]][Redux-url]
+<br>
 [![MongoDB][MongoDB-shield]][MongoDB-url]
 [![PostgreSQL][PostgreSQL-shield]][PostgreSQL-url]
 [![Jest][Jest-shield]][Jest-url]
