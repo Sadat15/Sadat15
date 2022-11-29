@@ -13,7 +13,7 @@ Full Stack Developer from London
 [![NodeJS][NodeJS-shield]][NodeJS-url]
 [![Express][Express-shield]][Express-url]
 [![HTML][HTML-shield]][HTML-url]
-![CSS][CSS-shield]
+[![CSS][CSS-shield]][CSS-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![React][React.js]][React-url]
 [![Redux][Redux-shield]][Redux-url]
@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 [HTML-shield]: https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://html.spec.whatwg.org/multipage/
 [CSS-shield]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [MongoDB-shield]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [MongoDB-url]: https://www.mongodb.com
 [PostgreSQL-shield]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
