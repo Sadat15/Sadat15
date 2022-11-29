@@ -1,6 +1,10 @@
 # Hi, I'm Sadat
 
+<div align="center">
+  
 Full Stack Developer
+  
+<div>
 <!--
 **Sadat15/Sadat15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
