@@ -9,7 +9,7 @@ Full Stack Developer from London
 <div>
   
 ### Languages and Tools:
-* [![JavaScript][JavaScript-shield]][JavaScript-url]
+[![JavaScript][JavaScript-shield]][JavaScript-url]
 * [![NodeJS][NodeJS-shield]][NodeJS-url]
 * [![Express][Express-shield]][Express-url]
 * [![HTML][HTML-shield]][HTML-url]
