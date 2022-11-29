@@ -1,5 +1,5 @@
 
-# Hi, I'm Sadat
+<h1 align="center">Hi, I'm Sadat</h1>
 <div align="center">
   
 Full Stack Developer
