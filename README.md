@@ -10,20 +10,21 @@ Full Stack Developer from London
   
 ### Languages and Tools:
 [![JavaScript][JavaScript-shield]][JavaScript-url]
-[![NodeJS][NodeJS-shield]][NodeJS-url]
-[![Express][Express-shield]][Express-url]
+[![Ruby][Ruby-shield]][Ruby-url]
+[![CSS][CSS-shield]][CSS-url]  
 [![HTML][HTML-shield]][HTML-url]
 <br>
-[![CSS][CSS-shield]][CSS-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![React][React.js]][React-url]
 [![Redux][Redux-shield]][Redux-url]
+[![NodeJS][NodeJS-shield]][NodeJS-url]
+[![Express][Express-shield]][Express-url]
+<br>
+[![Jest][Jest-shield]][Jest-url]
 [![Cypress][Cypress-shield]][Cypress-url]
 <br>
 [![MongoDB][MongoDB-shield]][MongoDB-url]
 [![PostgreSQL][PostgreSQL-shield]][PostgreSQL-url]
-[![Jest][Jest-shield]][Jest-url]
-[![Ruby][Ruby-shield]][Ruby-url]
   
 
   
