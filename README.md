@@ -11,7 +11,7 @@ Full Stack Developer from London
 ### Languages and Tools:
 [![JavaScript][JavaScript-shield]][JavaScript-url]
 [![Ruby][Ruby-shield]][Ruby-url]
-[![CSS][CSS-shield]][CSS-url]  
+[![CSS][CSS-shield]][CSS-url]
 [![HTML][HTML-shield]][HTML-url]
 <br>
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
