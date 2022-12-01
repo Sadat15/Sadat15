@@ -20,13 +20,11 @@ Full Stack Developer from London
 [![Express][Express-shield]][Express-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 <br>
-[![Jest][Jest-shield]][Jest-url]
-[![Cypress][Cypress-shield]][Cypress-url]
-<br>
 [![MongoDB][MongoDB-shield]][MongoDB-url]
 [![PostgreSQL][PostgreSQL-shield]][PostgreSQL-url]
-  
-
+<br>
+[![Jest][Jest-shield]][Jest-url]
+[![Cypress][Cypress-shield]][Cypress-url]
   
 
 <!-- <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
