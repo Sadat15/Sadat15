@@ -14,11 +14,11 @@ Full Stack Developer from London
 [![CSS][CSS-shield]][CSS-url]
 [![HTML][HTML-shield]][HTML-url]
 <br>
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![React][React.js]][React-url]
 [![Redux][Redux-shield]][Redux-url]
 [![NodeJS][NodeJS-shield]][NodeJS-url]
 [![Express][Express-shield]][Express-url]
+[![Bootstrap][Bootstrap.com]][Bootstrap-url]
 <br>
 [![Jest][Jest-shield]][Jest-url]
 [![Cypress][Cypress-shield]][Cypress-url]
