@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Sadat 👋🏼 </h1>
 <div align="center">
   
-Full Stack Developer from London 
+Full Stack Developer
   <br>
   <br>
 [![CV](https://img.shields.io/static/v1?label=My&message=CV&color=9ef0e3)](https://github.com/Sadat15/CV) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/static/v1?label=Linked&message=IN&color=286fc7)](https://www.linkedin.com/in/sadat-m/)  
